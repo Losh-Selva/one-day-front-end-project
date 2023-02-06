@@ -5,6 +5,7 @@ import AnimeContainer from './containers/AnimeContainer';
 
 function App() {
   return (
+    //testing out this style
 <div style={{ backgroundImage: `url(${background})`,
               backgroundPosition: 'center',
               backgroundSize: 'cover',
